@@ -1,0 +1,10 @@
+Linux
+
+/ - sign of an absolute path
+cd ../..  - 2-level upper than current directory
+cd (without arguments) - transfer to home folder
+~/Music - "~" is short for home folder, so this equal to cd (without arguments)
+. - if a directory starts with ".", this is the hidden one
+
+GUI vs CLI (Command Line Interface)
+Good CLI doc with best practice in building CLI apps
